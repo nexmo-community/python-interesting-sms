@@ -1,0 +1,7 @@
+tornado==3.1.1
+wsgiref==0.1.2
+requests==2.5.0
+nexmo==1.0.1
+Unidecode==0.4.19
+emoji==0.3.9
+
