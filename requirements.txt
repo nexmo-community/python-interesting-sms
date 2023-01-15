@@ -1,4 +1,4 @@
-tornado==3.1.1
+tornado==3.2.1
 wsgiref==0.1.2
 requests==2.5.0
 nexmo==1.0.1
